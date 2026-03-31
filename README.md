@@ -5,6 +5,19 @@
 
 ---
 
+## 🆕 Latest Update (v1.1.0)
+
+- **JSON Export Added** — New options to export selected keyframes or the full active rig timeline to JSON.
+- **Roundtrip Logic Fixed** — JSON export now writes joint transforms as offsets relative to each joint base pose, matching import behavior.
+- **More Reliable Re-import** — Exported JSON is now compatible with the same offset-based pipeline used by `JSON to Animate`.
+- **In-Plugin JSON Handoff** — Exported JSON can be sent directly to the AI Fight Animator window and persisted as a `StringValue`.
+
+### Why v1.1.0?
+
+This update includes **new features + bug fixes** with no breaking format changes, so the recommended semantic version is **v1.1.0** (minor).
+
+---
+
 ## ✨ Features
 
 - **One-Click JSON Import** — Paste any animation JSON from [Sarang](https://sarang.web.app) directly into Moon Animator and start animating instantly. No manual setup, no keyframe copying.
@@ -69,6 +82,19 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 # Moon Animator — Sarang Edition (Español)
 
 > Una versión modificada y gratuita de Moon Animator para Roblox Studio con importación de JSON en un clic, todos los temas desbloqueados y funciones con IA próximamente.
+
+---
+
+## 🆕 Última actualización (v1.1.0)
+
+- **Exportar JSON agregado** — Nuevas opciones para exportar keyframes seleccionados o toda la timeline del rig activo a JSON.
+- **Lógica de roundtrip corregida** — El export JSON ahora guarda transformaciones como offsets relativos a la pose base de cada joint, igual que el import.
+- **Reimportación más estable** — El JSON exportado ahora respeta el mismo flujo basado en offsets que usa `JSON to Animate`.
+- **Envío directo dentro del plugin** — El JSON exportado se puede enviar a la ventana AI Fight Animator y también guardarse como `StringValue`.
+
+### ¿Por qué v1.1.0?
+
+Esta actualización trae **funciones nuevas + correcciones** sin romper el formato anterior, por eso la versión semántica recomendada es **v1.1.0** (minor).
 
 ---
 
