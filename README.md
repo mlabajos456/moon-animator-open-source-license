@@ -20,7 +20,7 @@ This update includes **new features + bug fixes** with no breaking format change
 
 ## ✨ Features
 
-- **One-Click JSON Import** — Paste any animation JSON from [Sarang](https://sarang.web.app) directly into Moon Animator and start animating instantly. No manual setup, no keyframe copying.
+- **One-Click JSON Import** — Paste any animation JSON from [Sarang](https://sarang-roblox.web.app) directly into Moon Animator and start animating instantly. No manual setup, no keyframe copying.
 - **R15 Support** — Fully compatible with R15 rigs. R6 and Custom Rig support coming in a future update.
 - **All Themes Free** — Every UI theme is unlocked out of the box. No purchases, no paywalls.
 - **AI Features (Coming Soon)** — Intelligent animation suggestions, auto-smoothing, and more powered by AI.
@@ -40,7 +40,7 @@ This update includes **new features + bug fixes** with no breaking format change
 
 ## 🎬 How to Use JSON Animations
 
-1. Go to [sarang.web.app](https://sarang.web.app) and browse the free animation library.
+1. Go to [sarang-roblox.web.app](https://sarang-roblox.web.app) and browse the free animation library.
 2. Click on any animation and press **Copy JSON**.
 3. Open Moon Animator Sarang Edition in Roblox Studio.
 4. Click **Import** → **Paste JSON**.
@@ -71,7 +71,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 🔗 Links
 
-- 🌐 Animation Library: [sarang.web.app](https://sarang.web.app)
+- 🌐 Animation Library: [sarang-roblox.web.app](https://sarang-roblox.web.app)
 - 🐛 Report a bug: [Issues](../../issues)
 - 💬 Community: Discord (coming soon)
 
@@ -100,7 +100,7 @@ Esta actualización trae **funciones nuevas + correcciones** sin romper el forma
 
 ## ✨ Características
 
-- **Importar JSON en un clic** — Pega cualquier JSON de animación desde [Sarang](https://sarang.web.app) directamente en Moon Animator y empieza a animar al instante. Sin configuración manual, sin copiar keyframes.
+- **Importar JSON en un clic** — Pega cualquier JSON de animación desde [Sarang](https://sarang-roblox.web.app) directamente en Moon Animator y empieza a animar al instante. Sin configuración manual, sin copiar keyframes.
 - **Soporte R15** — Compatible con rigs R15. El soporte para R6 y Rigs Personalizados llegará en una actualización futura.
 - **Todos los Temas Gratis** — Cada tema de la interfaz está desbloqueado desde el inicio. Sin compras, sin muros de pago.
 - **Funciones con IA (Próximamente)** — Sugerencias de animación inteligentes, suavizado automático y más impulsado por IA.
@@ -120,7 +120,7 @@ Esta actualización trae **funciones nuevas + correcciones** sin romper el forma
 
 ## 🎬 Cómo usar animaciones en JSON
 
-1. Ve a [sarang.web.app](https://sarang.web.app) y explora la biblioteca gratuita de animaciones.
+1. Ve a [sarang.web.app](https://sarang-roblox.web.app) y explora la biblioteca gratuita de animaciones.
 2. Haz clic en cualquier animación y presiona **Copiar JSON**.
 3. Abre Moon Animator Sarang Edition en Roblox Studio.
 4. Haz clic en **Import** → **Paste JSON**.
@@ -151,6 +151,6 @@ Los pull requests son bienvenidos. Para cambios importantes, por favor abre un i
 
 ## 🔗 Enlaces
 
-- 🌐 Biblioteca de animaciones: [sarang.web.app](https://sarang.web.app)
+- 🌐 Biblioteca de animaciones: [sarang.web.app](https://sarang-roblox.web.app)
 - 🐛 Reportar un bug: [Issues](../../issues)
 - 💬 Comunidad: Discord (próximamente)
