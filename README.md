@@ -46,6 +46,14 @@ This update includes **new features + bug fixes** with no breaking format change
 4. Click **Import** → **Paste JSON**.
 5. Done — your animation is ready to use.
 
+### R15 animation-authoring skill
+
+- The Codex skill and its Roblox/Moon Animator notes are in `skills/roblox-r15-moon-animator/`.
+- Validate a clip with `python skills/roblox-r15-moon-animator/scripts/validate_animation_json.py path/to/animation.json`; add `--loop` to check loop closure.
+- Create and preview a joint-axis calibration from the viewer panel, or use `python skills/roblox-r15-moon-animator/scripts/create_joint_calibration.py --joint LeftUpperArm --axis z`.
+- Pick a confirmed or pending sample from the viewer's sample dropdown, or open it directly with `r15_animation_viewer.html?sample=sample_name`.
+- `references/server-generation-prompt.md` is prepared for the `/generate` backend. It is not active in the plugin until that server loads the prompt; the backend source is not included in this repository.
+
 ---
 
 ## 🛠️ Requirements
@@ -125,6 +133,14 @@ Esta actualización trae **funciones nuevas + correcciones** sin romper el forma
 3. Abre Moon Animator Sarang Edition en Roblox Studio.
 4. Haz clic en **Import** → **Paste JSON**.
 5. Listo — tu animación está lista para usar.
+
+### Skill para animar R15
+
+- La skill de Codex y las notas para Roblox/Moon Animator están en `skills/roblox-r15-moon-animator/`.
+- Valida un clip con `python skills/roblox-r15-moon-animator/scripts/validate_animation_json.py ruta/al/archivo.json`; añade `--loop` para revisar el cierre del ciclo.
+- Crea y previsualiza una prueba de eje desde el panel de calibración del visor, o usa `python skills/roblox-r15-moon-animator/scripts/create_joint_calibration.py --joint LeftUpperArm --axis z`.
+- Previsualiza una muestra confirmada o pendiente desde el selector del visor, o añade `?sample=nombre_de_muestra` a la URL.
+- `references/server-generation-prompt.md` está preparado para el backend `/generate`. No se activa en el plugin hasta que ese servidor cargue el prompt; su código no está incluido en este repositorio.
 
 ---
 
